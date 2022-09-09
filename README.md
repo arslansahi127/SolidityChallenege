@@ -1,1 +1,1 @@
-# SolidityChallenege
+# Smart contract SolidityChallenege
